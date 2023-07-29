@@ -8,10 +8,6 @@ from sklearn.metrics import mean_squared_error, r2_score
 # Load and preprocess the dataset
 def load_and_preprocess_data(file_path):
     data = pd.read_csv(file_path)
-    
-    # Clean and preprocess the data as needed
-    # Make sure to handle missing values, etc.
-    
     return data
 
 # Split the dataset into training and testing sets
