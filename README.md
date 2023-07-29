@@ -49,3 +49,5 @@ This GitHub repository contains all the code and relevant files to reproduce the
 Please refer to the individual files and directories for more detailed information about each step and the code implementation. If you have any questions or feedback, please don't hesitate to raise an issue or contact the project contributors.
 
 Thank you for your interest in this project! Happy exploring!
+
+![Results](./assets/results.png)
