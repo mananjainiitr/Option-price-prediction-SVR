@@ -50,4 +50,4 @@ Please refer to the individual files and directories for more detailed informati
 
 Thank you for your interest in this project! Happy exploring!
 
-![Results](./assets/results.png)
+![Results](assets/analysis.png)
